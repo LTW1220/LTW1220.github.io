@@ -31,10 +31,3 @@ Dr. Liting Wang is a PRiME Postdoctoral Fellow at the University of Toronto, Les
 Dr. Wang completed her Ph.D. in Shanghai Jiao Tong University, China, focused on developing peptidomimetic drugs and gene-delivery lipid nanoparticles (LNPs) to combat drug resistance and inhibit cancer metastasis. Her current research builds upon this expertise, concentrating on engineering blood-brain barrier-crossing lipid nanoparticles for the targeted treatment of challenging neurological conditions like glioblastoma and Alzheimer’s disease. She employs a comprehensive approach, integrating nanoparticle formulation, molecular biology, and advanced in vivo models, including patient-derived xenograft(PDX), orthotopic, and brain tumor models, to meticulously assess therapeutic performance and biodistribution.
 
 Dr. Wang also incorporates transcriptomic analysis, utilizing both bulk and single-cell RNA sequencing, to delve into treatment mechanisms and inform precision medicine strategies. Driven by a passion for interdisciplinary collaboration, she is aiming to translate groundbreaking biomedical innovations into tangible clinical solutions.
-
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a # picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-# Put your address / P.O. box / other info right below your picture. 
-# You can also disable any of these elements by editing   `profile` property of the YAML header of your `_pages/about.md`. 
-# Edit `_bibliography/papers.bib` and Jekyll will render your  [publications page](/al-folio/publications/) automatically.
-
