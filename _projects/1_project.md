@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Blocking Metastasis with a PEG-modified Peptide Drug
+description: Multi-arm PEG-modified peptidomimetic inhibitors of tumor cell-blood vessel interaction to block extravasation
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
