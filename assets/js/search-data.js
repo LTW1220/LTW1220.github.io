@@ -399,9 +399,9 @@ ninja.data = [{
           description: "Multi-arm PEG-modified peptidomimetic inhibitors of tumor cell-blood vessel interaction to block extravasation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-gene-delivery-lipid-nanoparticle-to-inhibit-metastasis-of-lung-cancer",
+          title: 'Gene delivery lipid nanoparticle to inhibit metastasis of lung cancer',
+          description: "The novel siRNA and ASo coloaded liposome combines with peptide drug to suppress metastasis by multitarget interference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-4",
