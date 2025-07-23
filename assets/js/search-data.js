@@ -401,12 +401,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-gene-delivery-lipid-nanoparticle-to-inhibit-metastasis-of-lung-cancer",
           title: 'Gene delivery lipid nanoparticle to inhibit metastasis of lung cancer',
-          description: "The novel siRNA and ASo coloaded liposome combines with peptide drug to suppress metastasis by multitarget interference",
+          description: "The novel siRNA and ASO co-loaded liposome combines with peptide drug to suppress metastasis by multitarget interference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-overcoming-drug-resistance-by-ferroptosis",
+          title: 'Overcoming drug resistance by ferroptosis',
+          description: "The liposome-based nanocatalytic sensitizer to inducing ferroptosis of AZD9291-resistant non-small cell lung cancer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
