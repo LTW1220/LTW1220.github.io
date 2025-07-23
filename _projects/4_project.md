@@ -2,7 +2,7 @@
 layout: page
 title: Overcoming drug resistance by ferroptosis
 description: The liposome-based nanocatalytic sensitizer to inducing ferroptosis of AZD9291-resistant non-small cell lung cancer
-img:
+img: assets/img/1.jpg
 importance: 1
 category: 
 ---
