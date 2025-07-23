@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gene delivery lipid nanoparticle to inhibit metastasis of lung cancer
-description: The novel siRNA and ASo coloaded liposome combines with peptide drug to suppress metastasis by multitarget interference
+description: The novel siRNA and ASO co-loaded liposome combines with peptide drug to suppress metastasis by multitarget interference
 img: assets/img/3.jpg
 importance: 1
 category: 
