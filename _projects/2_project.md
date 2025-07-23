@@ -8,7 +8,7 @@ category:
 giscus_comments: false
 ---
 
-Metastasis of cancer is a complicated process, involving multiple steps. Based on lung cancer cells and tissues from lung cancer patients, we found that OTUB2 and LncRNA MALAT1 are upregulated in AZD9291-resistant lung cancer cells, and OTUB2 protein level is increased in AZD9291-resistant tumor tissue from patients.Therefore, OTUB2 and LncRNA MALAT1, which are highly correlated with metastasis, are chosen as targets for double genes knockdown. The gene knockdown can reduce the migration ability of tumor cells, but it's not sufficient to prevent tumor cells from invading through stromal layer and entering the blood circulation. Moreover, The circulating tumor cells are able to extravasate from the blood vessel to form metastases. To aciheve multiple target and stage interference, the AHP-DRI-12 (a peptide that blocks interaction between tumor cells and vessel) is used in combination with gene treatment to inhibit metastasis.
+Metastasis of cancer is a complicated process, involving multiple steps. Based on non-small cell lung cancer (NSCLC) cells and tissues from NSCLC patients, we found that OTUB2 and LncRNA MALAT1 are upregulated in AZD9291-resistant lung cancer cells, and OTUB2 protein level is increased in tumor tissue from AZD9291-resistant NSCLC patients.Therefore, OTUB2 and LncRNA MALAT1, which are highly correlated with metastasis, are chosen as targets for double genes knockdown. The gene knockdown can reduce the migration ability of tumor cells, but it's not sufficient to prevent tumor cells from invading through stromal layer and entering the blood circulation. Moreover, The circulating tumor cells are able to extravasate from the blood vessel to form metastases. To achieve multiple target and stage interference, the AHP-DRI-12 (a peptide that blocks interaction between tumor cells and vessel) is used in combination with gene treatment to inhibit metastasis.
 
 
 <div class="row">
@@ -17,7 +17,7 @@ Metastasis of cancer is a complicated process, involving multiple steps. Based o
     </div>
 </div>
 <div class="caption">
-    A. The mRNA levels of OTUB2 and LncRNA MALAT1 are significantly increased in AZD9291-resistant lung cancer cells (H1975/AR,HCC827/AR) compared with parental cells (H1975, HCC827). B. The expression level of OTUB2 is also increased in lung cancer patient tumor tissues. Patient-1: drug sensitive; Patient-2, patient-3: drug resistance. C. Schematic identification of S/A@CaP. {https://doi.org/10.1002/smll.202204133}
+    A. The mRNA levels of OTUB2 and LncRNA MALAT1 are significantly increased in AZD9291-resistant NSCLC cells (H1975/AR,HCC827/AR) compared with parental cells (H1975, HCC827). B. The expression level of OTUB2 is also increased in tumor tissues from NSCLC patients. Patient-1: drug sensitive; Patient-2, patient-3: drug resistance. C. Schematic identification of S/A@CaP. {https://doi.org/10.1002/smll.202204133}
 </div>
 
 {% raw %}
