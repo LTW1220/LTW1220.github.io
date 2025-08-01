@@ -395,19 +395,19 @@ ninja.data = [{
           description: "The liposome-based nanocatalytic sensitizer for inducing ferroptosis in AZD9291-resistant non-small cell lung cancer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-targeting-neuroinflammation-by-bioreactive-nanoparticle-for-early-detection-and-intervention-of-alzheimer-s-disease",
+          title: 'Targeting Neuroinflammation by Bioreactive Nanoparticle for Early Detection and Intervention of Alzheimer’s Disease...',
+          description: "A blood–brain barrier (BBB)-crossing manganese dioxide nanoparticle enables early detection through MRI signal enhancement and disease modification by reducing pathological factors such as ROS, hypoxia, and phosphorylated tau in the brains of Alzheimer’s disease (AD) mouse models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-lipid-polymer-hybrid-nanoparticles-for-inhibiting-metastasis-via-tumor-microenvironment-regulation",
+          title: 'Lipid-Polymer hybrid nanoparticles for inhibiting metastasis via tumor microenvironment regulation',
+          description: "WORK IN PROGRESS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-lipid-polymer-hybrid-nanoparticle-as-an-adjuvant-therapy-to-inhibit-metastasis-and-recurrence",
+          title: 'Lipid-polymer hybrid nanoparticle as an adjuvant therapy to inhibit metastasis and recurrence',
+          description: "WORK IN PROGRESS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
