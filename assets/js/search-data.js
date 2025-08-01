@@ -48,8 +48,8 @@ ninja.data = [{
           description: "WORK IN PROGRESS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-lipid-polymer-hybrid-nanoparticle-as-an-adjuvant-therapy-to-inhibit-metastasis-and-recurrence",
-          title: 'Lipid-polymer hybrid nanoparticle as an adjuvant therapy to inhibit metastasis and recurrence',
+            },},{id: "projects-nanoparticle-based-adjuvant-therapy-for-inhibiting-cancer-metastasis-and-recurrence",
+          title: 'Nanoparticle-based adjuvant therapy for inhibiting cancer metastasis and recurrence',
           description: "WORK IN PROGRESS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
