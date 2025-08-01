@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lipid-polymer hybrid nanoparticle as an adjuvant therapy to inhibit metastasis and recurrence 
+title: Nanoparticle-based adjuvant therapy for inhibiting cancer metastasis and recurrence
 description: WORK IN PROGRESS
 img:  
 importance: 1
